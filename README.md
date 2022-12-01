@@ -13,3 +13,4 @@ Random: I think this is an example of a design-based approach, where the inferen
 Conclusions: the authors conclude that the use of e-cigarettes as driven an increase in the use of tobacco products from 2017-2018, while there was no siginficant increase in tobacco product use among either middle or high schoolers from 2011-2018. 
 >>>>>>> 2ecb4297b6eeed2fb36e757b7f9a376cd79e1272
 # biostat840-project3-pkgdown-lilykoff
+# biostat840-project3-pkgdown-lilykoff
